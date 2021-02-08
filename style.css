@@ -1,0 +1,99 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin : 30px;
+}
+h2{
+    font-weight: 800;
+    font-size: 40px;
+}
+h1{
+    color: rgb(226, 43, 89);
+    font-size: 50px;
+}
+h3{
+    font-family: 40px;
+}
+.linkbutton
+{
+    text-decoration: none;
+    background-color: rgb(230, 32, 108);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin:20px;
+    padding: 5px;
+    
+
+}
+#hello
+{
+    margin-left: 5%;
+    padding-top: 15%;
+}
+.half-width img{
+    width: 100%;
+    margin: 10px;
+    
+}
+p{
+    color: dimgray;
+}
+.highlight{
+    
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+    padding-bottom: 170px;
+}
+.bio-area
+{  
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+
+}
+#bio
+{
+    margin-left: 5%;
+    padding-top: 15%;
+}
+.latest
+{
+   float: left;
+   
+   
+}
+.work
+{
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#pics
+{
+    height: 500px;
+    margin:50px 60px;
+    padding-right:40px;
+}
+.client
+{
+    text-align:center;
+
+}
+#center
+{
+   
+    text-align: center;
+   padding-left: 30%;
+   padding-right: 30%;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
